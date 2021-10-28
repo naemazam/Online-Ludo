@@ -1,4 +1,4 @@
-# Online-Ludu
+# Online-Ludo
 
 4 Play online ludo game on JS based 
 
